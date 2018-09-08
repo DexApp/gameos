@@ -1,7 +1,7 @@
 # GAMEOS
 
 ## Draw Number
-After each game's round finished, the lottery program will send a lottery action to the smart contract, The winning number is the remainder of the block id and 38 of the transaction.  
+American Roulette is a game of a wheel and 38 slots(0, 00, 1~36). After each game's round finished, the lottery program will send a lottery action to the smart contract, The winning number is the remainder of the block id and 38 of the transaction.  
 
 Examples are as follows 
 ```
@@ -17,7 +17,7 @@ The draw lottery number  is 12
 
 
 ## 开奖号码
-在每局游戏结束后，抽奖程序将向智能合约发送抽奖动作，中奖号码是交易的块ID与38的余数.
+在美式转轮盘游戏的转盘内一共有38个不同的小方格(0, 00, 1~36). 在每局游戏结束后，抽奖程序将向智能合约发送抽奖动作，中奖号码是交易的块ID与38的余数.
 
 举例如下
 ```
@@ -28,8 +28,10 @@ The draw lottery number  is 12
 块ID        : 00e050e5287463d6c0da013819399fd3e1b5d761dacf27ba3893e718d07e0c3c
 
 计算方式: (块ID最后8字节)  取余 38  => ‭3497921596‬(0xd07e0c3c) 取余 38 => 12
-The draw lottery number  is 12
+中奖号码是 12
 ```
-
-
+Block Explorer:
+- https://eosflare.io/account/eosdeveosdev
+- https://bloks.io/account/eosdeveosdev
+----
 * Telegram Chat:  https://t.me/GAMEOS1
