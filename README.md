@@ -17,6 +17,7 @@ The draw lottery number  is 12
 * When the number was 37, as 00
 ```
 
+<div style="text-align:center"><img src ="https://geos.gameos.me/img/roulette-wheel-layouts.png" /></div
 
 ## 开奖号码
 在美式转轮盘游戏的转盘内一共有38个不同的小方格(0, 00, 1~36). 在每局游戏结束后，抽奖程序将向智能合约发送抽奖动作，中奖号码是交易的块ID与38的余数.
