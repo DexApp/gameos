@@ -13,6 +13,8 @@ Block ID      : 00e050e5287463d6c0da013819399fd3e1b5d761dacf27ba3893e718d07e0c3c
 
 Compute: (Block ID Last 8 Byte)  Mod 38  => ‭3497921596‬(0xd07e0c3c) Mod 38 => 12
 The draw lottery number  is 12
+
+* When the number was 37, as 00
 ```
 
 
@@ -29,6 +31,8 @@ The draw lottery number  is 12
 
 计算方式: (块ID最后8字节)  取余 38  => ‭3497921596‬(0xd07e0c3c) 取余 38 => 12
 中奖号码是 12
+
+* 当号码是37时, 作为 00
 ```
 Block Explorer:
 - https://eosflare.io/account/eosdeveosdev
