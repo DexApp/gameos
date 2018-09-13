@@ -26,7 +26,7 @@ The draw lottery number  is 12
 ```
 交易iD      : 2dc024fc967031e28890be36cb3ab0b17c0b66e3419b1df43fcb04540c9fd297
 块当前时间   : Sep-04-2018, 11:02:43 PM	
-投资动作    : eosdeveosdev - drawing {gameId: 1, round_index: 1}
+开奖动作    : eosdeveosdev - drawing {gameId: 1, round_index: 1}
 块号码      :	14700773
 块ID        : 00e050e5287463d6c0da013819399fd3e1b5d761dacf27ba3893e718d07e0c3c
 
